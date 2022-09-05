@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netSalary/static/css/main.534f201c.css",
+    "main.js": "/netSalary/static/js/main.ddfda196.js",
+    "static/js/787.6bdf653d.chunk.js": "/netSalary/static/js/787.6bdf653d.chunk.js",
+    "index.html": "/netSalary/index.html",
+    "main.534f201c.css.map": "/netSalary/static/css/main.534f201c.css.map",
+    "main.ddfda196.js.map": "/netSalary/static/js/main.ddfda196.js.map",
+    "787.6bdf653d.chunk.js.map": "/netSalary/static/js/787.6bdf653d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.534f201c.css",
+    "static/js/main.ddfda196.js"
+  ]
+}
