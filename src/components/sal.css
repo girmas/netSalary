@@ -23,26 +23,26 @@
 
 
 .btn {
-    width:100%;
+    width: 100%;
     height: 40px;
     background-color: #4ec032;
-    color: white;
+    color: red;
     border-radius: 15px;
-     
+
 }
 
 .sal {
     height: 28rem;
     width: 28rem;
-    
+
 }
 
 .salList {
     color: white;
     margin-bottom: 0px;
     text-align: center;
-    
-  
+
+
 }
 
 .salBtn {
@@ -50,8 +50,8 @@
 }
 
 h1 {
-    color:white;
+    color: white;
     text-align: center;
     margin-top: 15px;
-    
+
 }
